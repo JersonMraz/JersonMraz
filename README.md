@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0&text=Hi%2,%20I'm%20Sullano%20Jerson%20&reversal=false&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=A%20Web%20App%20Developer&descSize=30&descAlignY=85" />
+<img src="https://capsulerender.vercel.app/apitype=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Sullano%20Jerson&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=A%20Web%20and%20Mobile%20%20Developer&descSize=30&descAlignY=85&section=header" />
