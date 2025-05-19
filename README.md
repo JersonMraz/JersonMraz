@@ -1,1 +1,1 @@
-<img src="https://wave-animation-rho.vercel.app/" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0&text=Hi%2,%20I'm%20Sullano%20Jerson%20&reversal=false&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=A%20Web%20App%20Developer&descSize=30&descAlignY=85" />
