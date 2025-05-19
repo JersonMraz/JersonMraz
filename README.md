@@ -22,4 +22,4 @@ As a quick learner and adaptive thinker, I value clean code, intuitive UX, and c
 ---
 
 [![Mail Badge](https://img.shields.io/badge/-jersonsullano201@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:jersonsullano201@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white)](https://www.facebook.com/xxxjss)
+[![Facebook Badge](https://img.shields.io/badge/-Jerson%20Sullano-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white)](https://www.facebook.com/xxxjss)
