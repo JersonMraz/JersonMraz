@@ -16,8 +16,8 @@ As a quick learner and adaptive thinker, I value clean code, intuitive UX, and c
 ## 🛠️ Tech Stack
 
 - **Languages**: JavaScript, HTML, CSS, PHP
-- **Frameworks/Libraries**: React, Angular, Vite, Bootstrap
-- **Tools**: Git, VS Code, Figma, XAMPP, MySQL
+- **Frameworks/Libraries**: ReactJS, Angular, Vite, W3.CSS
+- **Tools**: Git, VS Code, XAMPP, MySQL, POSTMAN
 
 ---
 
