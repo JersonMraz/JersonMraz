@@ -15,9 +15,11 @@ As a quick learner and adaptive thinker, I value clean code, efficient data mana
 
 ## 🛠️ Tech Stack
 
-- **Languages**: JavaScript, HTML, CSS, PHP
-- **Frameworks/Libraries**: ReactJS, PrismaORM
-- **Tools**: Git, GitHub, VS Code, XAMPP, MySQL, POSTMAN, PostgreSQL
+- **Programming Languages**: Java, Python, C++
+- **Frontend Development**: ReactJS, Next.js, HTML5, CSS3, Tailwind CSS
+- **Backend Development**: Node.js, Express.js, PHP
+- **Database Technologies**: MySQL, PostgreSQL, Prisma ORM
+- **Tools & Platform**: Git, GitHub, Visual Studio Code
 
 ---
 
