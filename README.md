@@ -19,7 +19,7 @@ As a quick learner and adaptive thinker, I value clean code, efficient data mana
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,php,mysql,npm,nodejs,express,vite,vercel)
 
 ### Tools
-![My Skills](https://skillicons.dev/icons?i=vscode,cursor,postmtan,git,github)
+![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,github)
 
 ⭐ *Thank you for visiting my profile! Let's connect and build something great together.*
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=100&section=footer" />
