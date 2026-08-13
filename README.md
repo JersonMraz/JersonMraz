@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:3a8296,100:091519&text=Hi%2,%20I'm%20Sullano%20Jerson%20&reversal=false&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=A%20Web%20App%20Developer&descSize=30&descAlignY=85&fontSize=50&section=header&textBg=false" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=150&text=Hi,%20I'm%20Sullano%20Jerson&fontSize=50&fontColor=fdd935&fontAlignY=45&animation=twinkling&desc=A%20Web%20%20Developer&descSize=30&descAlignY=85&section=header" />
 
 ## 👋 About Me
 
