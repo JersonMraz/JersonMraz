@@ -1,25 +1,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=150&text=Hi,%20I'm%20Sullano%20Jerson&fontSize=50&fontColor=fdd935&fontAlignY=45&animation=twinkling&desc=A%20Web%20%20Developer&descSize=30&descAlignY=85&section=header" />
 
-## 👋 About Me
+I'm **Sullano Jerson**, a passionate and driven **Information Technology** graduate at the **University of Cebu - Main Campus**.  
+I specialize in **web development** with a strong focus on backend development and API integration.
 
-I'm **Sullano Jerson**, a student majoring in **Information Technology** at the **University of Cebu - Main Campus**.  
-I have a strong passion for **backend development** and enjoy building robust server-side applications and database systems.
-
-With a solid foundation in **MySQL**, **XAMPP**, and knowledge of **PostgreSQL** with **Prisma ORM**,  
-I continuously explore the evolving world of backend technologies with curiosity and dedication.
+I'm confident working with tools and technologies like **Next.js/React.js**, **Node.js**, **Express.js** and **PostgreSQL** with **Prisma ORM**,  
+Whether it's a team project or a personal build, I enjoy diving into the code and figuring things out.
 
 I thrive in collaborative environments, where teamwork and innovation are key.  
 As a quick learner and adaptive thinker, I value clean code, efficient data management, and continuous growth.
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Programming Languages**: Java, Python, C++
-- **Frontend Development**: ReactJS, Next.js, HTML5, CSS3, Tailwind CSS
-- **Backend Development**: Node.js, Express.js, PHP
-- **Database Technologies**: MySQL, PostgreSQL, Prisma ORM
-- **Tools & Platform**: Git, GitHub, Visual Studio Code
+### Core Tech Stacks
+![My Skills](https://skillicons.dev/icons?i=react,next,ts,tailwind,postgres)
 
 ---
 
