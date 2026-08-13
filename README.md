@@ -9,19 +9,17 @@ Whether it's a team project or a personal build, I enjoy diving into the code an
 I thrive in collaborative environments, where teamwork and innovation are key.  
 As a quick learner and adaptive thinker, I value clean code, efficient data management, and continuous growth.
 
----
+[![Mail Badge](https://img.shields.io/badge/-jersonsullano201@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:jersonsullano201@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/-My%20Portfolio-0e7490?style=flat&labelColor=0e7490&logo=vercel&logoColor=white)](https://sullano.vercel.app)
 
 ### Core Tech Stacks
 ![My Skills](https://skillicons.dev/icons?i=react,next,ts,tailwind,postgres)
 
----
+### Other Tech Stacks
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,php,mysql,npm,nodejs,express,vite,vercel)
 
-## 📫 Contact Me
-
-[![Mail Badge](https://img.shields.io/badge/-jersonsullano201@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:jersonsullano201@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-Jerson%20Sullano-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white)](https://www.facebook.com/xxxjss)
-[![Portfolio Badge](https://img.shields.io/badge/-My%20Portfolio-0e7490?style=flat&labelColor=0e7490&logo=vercel&logoColor=white)](https://sullano.vercel.app)
----
+### Tools
+![My Skills](https://skillicons.dev/icons?i=vscode,cursor,postmtan,git,github)
 
 ⭐ *Thank you for visiting my profile! Let's connect and build something great together.*
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=100&section=footer" />
